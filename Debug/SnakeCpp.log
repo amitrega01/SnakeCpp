@@ -2,10 +2,10 @@
   Source.cpp
   Player.cpp
   Game.cpp
-e:\studia\c++\snake\game.cpp(20): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+e:\studia\c++\snake\game.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Fruit.cpp
   Cords.cpp
-e:\studia\c++\snake\cords.cpp(5): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
-  Generowanie kodu...
+e:\studia\c++\snake\cords.cpp(5): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
   SnakeCpp.vcxproj -> E:\STUDIA\c++\SnakeCpp\Debug\SnakeCpp.exe
   SnakeCpp.vcxproj -> E:\STUDIA\c++\SnakeCpp\Debug\SnakeCpp.pdb (Partial PDB)
